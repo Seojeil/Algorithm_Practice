@@ -87,5 +87,27 @@
  https://school.programmers.co.kr/learn/courses/30/lessons/161990
  39. 프로그래머스 - 개인정보 수집 유효기간  
  https://school.programmers.co.kr/learn/courses/30/lessons/150370
- 40. 프로그래머스 - 달리기 경주
+ 40. 프로그래머스 - 달리기 경주  
  https://school.programmers.co.kr/learn/courses/30/lessons/178871
+
+### 41 - 50
+ 41. 프로그래머스 - 공원 산책(풀거임)  
+ https://school.programmers.co.kr/learn/courses/30/lessons/172928
+ 42. 프로그래머스 - 신고 결과 받기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/92334
+ 43. 프로그래머스 - JadenCase 문자열 만들기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/12951
+ 44. 프로그래머스 - 피보나치 수  
+ https://school.programmers.co.kr/learn/courses/30/lessons/12945
+ 45. 프로그래머스 - 카펫  
+ https://school.programmers.co.kr/learn/courses/30/lessons/42842
+ 46. 프로그래머스 - 귤 고르기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/138476
+ 47. 프로그래머스 - 괄호 회전하기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/76502
+ 48. 프로그래머스 - 연속 부분 수열 합의 개수  
+ https://school.programmers.co.kr/learn/courses/30/lessons/131701
+ 49. 프로그래머스 - H-Index  
+ https://school.programmers.co.kr/learn/courses/30/lessons/42747
+ 50. 프로그래머스 - n^2 배열 자르기(풀거임)  
+ https://school.programmers.co.kr/learn/courses/30/lessons/87390
