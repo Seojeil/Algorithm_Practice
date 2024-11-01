@@ -47,4 +47,23 @@
  https://school.programmers.co.kr/learn/courses/30/lessons/142086
 
  ### 21 - 30
- 31. 
+ 21. 프로그래머스 - 푸드 파이트 대회  
+ https://school.programmers.co.kr/learn/courses/30/lessons/134240
+ 22. 프로그래머스 - 콜라 문제  
+ https://school.programmers.co.kr/learn/courses/30/lessons/132267
+ 23. 프로그래머스 - 명예의 전당 (1)  
+ https://school.programmers.co.kr/learn/courses/30/lessons/138477
+ 24. 프로그래머스 - 카드 뭉치  
+ https://school.programmers.co.kr/learn/courses/30/lessons/159994
+ 25. 프로그래머스 - 과일 장수  
+ https://school.programmers.co.kr/learn/courses/30/lessons/135808
+ 26. 프로그래머스 - 소수 만들기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/12977
+ 27. 프로그래머스 - 덧칠하기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/161989
+ 28. 프로그래머스 - 기사단원의 무기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/136798
+ 29. 프로그래머스 - 로또의 최고순위와 최저순위  
+ https://school.programmers.co.kr/learn/courses/30/lessons/77484
+ 30. 프로그래머스 - 옹알이 (2)  
+ https://school.programmers.co.kr/learn/courses/30/lessons/133499

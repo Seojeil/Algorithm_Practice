@@ -3,7 +3,7 @@
 
 def solution(s):
     answer = ""
-    n_dict = {
+    NUMBER_DICT = {
         "zero": "0",
         "one": "1",
         "two": "2",
@@ -23,8 +23,8 @@ def solution(s):
         if n.isalpha():
             word += n
 
-            if word in n_dict:
-                answer += n_dict[word]
+            if word in NUMBER_DICT:
+                answer += NUMBER_DICT[word]
                 word = ""
 
         else:
