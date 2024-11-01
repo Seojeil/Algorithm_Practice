@@ -24,3 +24,16 @@ def is_prime(n):
             return False
         i += 2
     return True
+
+
+# 원소의 빈도수
+def count(string):
+    result = {}
+
+    for char in string:
+        if char not in result:
+            result[char] = 1
+        else:
+            result[char] += 1
+
+    return result

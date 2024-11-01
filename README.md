@@ -46,7 +46,7 @@
  20. 프로그래머스 - 가장 가까운 같은 글자  
  https://school.programmers.co.kr/learn/courses/30/lessons/142086
 
- ### 21 - 30
+### 21 - 30
  21. 프로그래머스 - 푸드 파이트 대회  
  https://school.programmers.co.kr/learn/courses/30/lessons/134240
  22. 프로그래머스 - 콜라 문제  
@@ -67,3 +67,25 @@
  https://school.programmers.co.kr/learn/courses/30/lessons/77484
  30. 프로그래머스 - 옹알이 (2)  
  https://school.programmers.co.kr/learn/courses/30/lessons/133499
+
+### 31 - 40
+ 31. 프로그래머스 - 숫자 짝궁  
+ https://school.programmers.co.kr/learn/courses/30/lessons/131128
+ 32. 프로그래머스 - 체육복  
+ https://school.programmers.co.kr/learn/courses/30/lessons/42862
+ 33. 프로그래머스 - 문자열 나누기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/140108
+ 34. 프로그래머스 - 대충 만든 자판  
+ https://school.programmers.co.kr/learn/courses/30/lessons/160586
+ 35. 프로그래머스 - 둘만의 암호  
+ https://school.programmers.co.kr/learn/courses/30/lessons/155652
+ 36. 프로그래머스 - 햄버거 만들기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/133502
+ 37. 프로그래머스 - 성격 유형 검사하기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/118666
+ 38. 프로그래머스 - 바탕화면 정리  
+ https://school.programmers.co.kr/learn/courses/30/lessons/161990
+ 39. 프로그래머스 - 개인정보 수집 유효기간  
+ https://school.programmers.co.kr/learn/courses/30/lessons/150370
+ 40. 프로그래머스 - 달리기 경주
+ https://school.programmers.co.kr/learn/courses/30/lessons/178871
