@@ -133,3 +133,25 @@
  https://school.programmers.co.kr/learn/courses/30/lessons/92341
  60. 프로그래머스 - 모음사전  
  https://school.programmers.co.kr/learn/courses/30/lessons/84512
+
+### 61 - 70
+ 61. 프로그래머스 - 뒤에 있는 큰 수 찾기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/154539
+ 62. 프로그래머스 - 롤케이크 자르기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/132265
+ 63. 프로그래머스 - 숫자 변환하기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/154538
+ 64. 프로그래머스 - 가장 큰 수  
+ https://school.programmers.co.kr/learn/courses/30/lessons/42746
+ 65. 프로그래머스 - 소수 찾기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/42839
+ 66. 택배 상자  
+ https://school.programmers.co.kr/learn/courses/30/lessons/131704
+ 67. 큰 수 만들기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/42883
+ 68. 연속된 부분 수열의 합  
+ https://school.programmers.co.kr/learn/courses/30/lessons/178870
+ 69. 두 큐 합 같게 만들기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/118667
+ 70. 전력망을 둘로 나누기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/86971

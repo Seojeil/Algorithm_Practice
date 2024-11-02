@@ -21,21 +21,18 @@ def solution(word):
     if find_word == [1, 0, 0, 0, 0]:
         return 1
 
-    while True:
+    while index != find_word:
         if 0 in index:
             i = index.index(0)
             index[i] += 1
-            answer += 1
         else:
             index[4] += 1
-            answer += 1
+
+        answer += 1
 
         while 6 in index:
             i = index.index(6)
             index[i] = 0
             index[i - 1] += 1
-
-        if index == find_word:
-            break
 
     return answer
