@@ -287,3 +287,28 @@
  https://swexpertacademy.com/main/talk/solvingClub/problemView.do
  130. SWEA - 중간값 찾기  
  https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+
+### 131 - 140
+ 131. SWEA - 패턴 마디의 길이  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 132. SWEA - 파리 퇴치  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 133. SWEA - 초심자의 회문 검사  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 134. SWEA - 지그재그 숫자  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 135. SWEA - 어디에 단어가 들어갈 수 있을까  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 136. SWEA - 숫자 배열 회전  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 137. SWEA - 두 개의 숫자열  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 138. SWEA - 달팽이 숫자  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 139. SWEA - 간단한 소인수분해  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 140. SWEA - 수도 요금 경쟁  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+
+### 141 - 150
+ 141. 
