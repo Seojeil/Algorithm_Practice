@@ -91,7 +91,7 @@
  https://school.programmers.co.kr/learn/courses/30/lessons/178871
 
 ### 41 - 50
- 41. 프로그래머스 - 공원 산책(풀거임)  
+ 41. 프로그래머스 - 공원 산책  
  https://school.programmers.co.kr/learn/courses/30/lessons/172928
  42. 프로그래머스 - 신고 결과 받기  
  https://school.programmers.co.kr/learn/courses/30/lessons/92334
@@ -109,5 +109,27 @@
  https://school.programmers.co.kr/learn/courses/30/lessons/131701
  49. 프로그래머스 - H-Index  
  https://school.programmers.co.kr/learn/courses/30/lessons/42747
- 50. 프로그래머스 - n^2 배열 자르기(풀거임)  
+ 50. 프로그래머스 - n^2 배열 자르기  
  https://school.programmers.co.kr/learn/courses/30/lessons/87390
+
+### 51 - 60
+ 51. 프로그래머스 - 행렬의 곱셈  
+ https://school.programmers.co.kr/learn/courses/30/lessons/12949
+ 52. 프로그래머스 - 할인 행사  
+ https://school.programmers.co.kr/learn/courses/30/lessons/131127
+ 53. 프로그래머스 - 의상  
+ https://school.programmers.co.kr/learn/courses/30/lessons/42578
+ 54. 프로그래머스 - 기능개발  
+ https://school.programmers.co.kr/learn/courses/30/lessons/42586
+ 55. 프로그래머스 - 프로세스  
+ https://school.programmers.co.kr/learn/courses/30/lessons/42587
+ 56. 프로그래머스 - 피로도  
+ https://school.programmers.co.kr/learn/courses/30/lessons/87946
+ 57. 프로그래머스 - 타겟 넘버  
+ https://school.programmers.co.kr/learn/courses/30/lessons/43165
+ 58. 프로그래머스 - k진수에서 소수 개수 구하기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/92335
+ 59. 프로그래머스 - 주차 요금 계산  
+ https://school.programmers.co.kr/learn/courses/30/lessons/92341
+ 60. 프로그래머스 - 모음사전  
+ https://school.programmers.co.kr/learn/courses/30/lessons/84512
