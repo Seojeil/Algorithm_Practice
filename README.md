@@ -311,4 +311,17 @@
  https://swexpertacademy.com/main/talk/solvingClub/problemView.do
 
 ### 141 - 150
- 141. 
+ 141. SWEA - Ladder1  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 142. SWEA - 식료품 가게  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 143. SWEA - 24시간  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 144. SWEA - 문자열의 거울상  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 145. SWEA - 민석이의 과제 체크하기  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 146. SWEA - 준환이의 운동관리  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 147. SWEA - 미로1  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
