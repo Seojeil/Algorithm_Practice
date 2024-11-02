@@ -265,3 +265,25 @@
  https://www.acmicpc.net/problem/17950
  120. 백준 - 교수님 그림이 깨지는데요?  
  https://www.acmicpc.net/problem/20205
+
+### 121 - 130
+ 121. 백준 - 추첨상 사수 대작전! (Normal)  
+ https://www.acmicpc.net/problem/20411
+ 122. 백준 - 유사 라임 게임  
+ https://www.acmicpc.net/problem/24431
+ 123. 백준 - 방어율 무시 계산하기  
+ https://www.acmicpc.net/problem/25756
+ 124. 백준 - 점심시간 레이스  
+ https://www.acmicpc.net/problem/28236
+ 125. 백준 - 더하기  
+ https://www.acmicpc.net/problem/28419
+ 126. 백준 - 타슈  
+ https://www.acmicpc.net/problem/30018
+ 127. 백준 - 자동차 주차  
+ https://www.acmicpc.net/problem/30993
+ 128. 백준 - 교환 분배법칙  
+ https://www.acmicpc.net/problem/31000
+ 129. SWEA - 평균값 구하기  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
+ 130. SWEA - 중간값 찾기  
+ https://swexpertacademy.com/main/talk/solvingClub/problemView.do
