@@ -155,3 +155,25 @@
  https://school.programmers.co.kr/learn/courses/30/lessons/118667
  70. 전력망을 둘로 나누기  
  https://school.programmers.co.kr/learn/courses/30/lessons/86971
+
+### 71 - 80
+ 71. 호텔 대실  
+ https://school.programmers.co.kr/learn/courses/30/lessons/155651
+ 72. 점 찍기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/140107
+ 73. 마법의 엘리베이터  
+ https://school.programmers.co.kr/learn/courses/30/lessons/148653
+ 74. 거리두기 확인하기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/81302
+ 75. 숫자 카드 나누기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/135807
+ 76. 멀쩡한 사각형  
+ https://school.programmers.co.kr/learn/courses/30/lessons/62048
+ 77. 시소 짝꿍  
+ https://school.programmers.co.kr/learn/courses/30/lessons/152996
+ 78. 테이블 해시 함수  
+ https://school.programmers.co.kr/learn/courses/30/lessons/147354
+ 79. 하노이의 탑  
+ https://school.programmers.co.kr/learn/courses/30/lessons/12946
+ 80. 미로 탈출  
+ https://school.programmers.co.kr/learn/courses/30/lessons/159993
