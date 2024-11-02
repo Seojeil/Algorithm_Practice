@@ -145,35 +145,57 @@
  https://school.programmers.co.kr/learn/courses/30/lessons/42746
  65. 프로그래머스 - 소수 찾기  
  https://school.programmers.co.kr/learn/courses/30/lessons/42839
- 66. 택배 상자  
+ 66. 프로그래머스 - 택배 상자  
  https://school.programmers.co.kr/learn/courses/30/lessons/131704
- 67. 큰 수 만들기  
+ 67. 프로그래머스 - 큰 수 만들기  
  https://school.programmers.co.kr/learn/courses/30/lessons/42883
- 68. 연속된 부분 수열의 합  
+ 68. 프로그래머스 - 연속된 부분 수열의 합  
  https://school.programmers.co.kr/learn/courses/30/lessons/178870
- 69. 두 큐 합 같게 만들기  
+ 69. 프로그래머스 - 두 큐 합 같게 만들기  
  https://school.programmers.co.kr/learn/courses/30/lessons/118667
- 70. 전력망을 둘로 나누기  
+ 70. 프로그래머스 - 전력망을 둘로 나누기  
  https://school.programmers.co.kr/learn/courses/30/lessons/86971
 
 ### 71 - 80
- 71. 호텔 대실  
+ 71. 프로그래머스 - 호텔 대실  
  https://school.programmers.co.kr/learn/courses/30/lessons/155651
- 72. 점 찍기  
+ 72. 프로그래머스 - 점 찍기  
  https://school.programmers.co.kr/learn/courses/30/lessons/140107
- 73. 마법의 엘리베이터  
+ 73. 프로그래머스 - 마법의 엘리베이터  
  https://school.programmers.co.kr/learn/courses/30/lessons/148653
- 74. 거리두기 확인하기  
+ 74. 프로그래머스 - 거리두기 확인하기  
  https://school.programmers.co.kr/learn/courses/30/lessons/81302
- 75. 숫자 카드 나누기  
+ 75. 프로그래머스 - 숫자 카드 나누기  
  https://school.programmers.co.kr/learn/courses/30/lessons/135807
- 76. 멀쩡한 사각형  
+ 76. 프로그래머스 - 멀쩡한 사각형  
  https://school.programmers.co.kr/learn/courses/30/lessons/62048
- 77. 시소 짝꿍  
+ 77. 프로그래머스 - 시소 짝꿍  
  https://school.programmers.co.kr/learn/courses/30/lessons/152996
- 78. 테이블 해시 함수  
+ 78. 프로그래머스 - 테이블 해시 함수  
  https://school.programmers.co.kr/learn/courses/30/lessons/147354
- 79. 하노이의 탑  
+ 79. 프로그래머스 - 하노이의 탑  
  https://school.programmers.co.kr/learn/courses/30/lessons/12946
- 80. 미로 탈출  
+ 80. 프로그래머스 - 미로 탈출  
  https://school.programmers.co.kr/learn/courses/30/lessons/159993
+
+### 81 - 90
+ 81. 프로그래머스 - 혼자 놀기의 달인  
+ https://school.programmers.co.kr/learn/courses/30/lessons/131130
+ 82. 프로그래머스 - 광물 캐기  
+ https://school.programmers.co.kr/learn/courses/30/lessons/172927
+ 83. 프로그래머스 - 리코쳇 로봇  
+ https://school.programmers.co.kr/learn/courses/30/lessons/169199
+ 84. 프로그래머스 - 디펜스 게임  
+ https://school.programmers.co.kr/learn/courses/30/lessons/142085
+ 85. 프로그래머스 - 우박수열 정적분  
+ https://school.programmers.co.kr/learn/courses/30/lessons/134239
+ 86. 프로그래머스 - 두 원 사이의 정수 쌍  
+ https://school.programmers.co.kr/learn/courses/30/lessons/181187
+ 87. 백준 - 유기농 배추  
+ https://www.acmicpc.net/problem/1012
+ 88. 백준 - 직사각형에서 탈출  
+ https://www.acmicpc.net/problem/1085
+ 89. 백준 - 운동  
+ https://www.acmicpc.net/problem/1173
+ 90. 백준 - 등수 구하기  
+ https://www.acmicpc.net/problem/1205
