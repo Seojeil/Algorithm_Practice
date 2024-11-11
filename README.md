@@ -374,5 +374,6 @@
  풀이: https://youtharchive.tistory.com/205
  149. 프로그래머스 - 삼각 달팽이  
  https://school.programmers.co.kr/learn/courses/30/lessons/68645
+ 풀이: https://youtharchive.tistory.com/56
  150. 프로그래머스 - 배달  
  https://school.programmers.co.kr/learn/courses/30/lessons/12978
