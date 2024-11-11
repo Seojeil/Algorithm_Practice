@@ -20,9 +20,11 @@
 
 ### 1 - 10
  1. 프로그래머스 - 2개 이하로 다른 비트  
- https://school.programmers.co.kr/learn/courses/30/lessons/77885  
+ https://school.programmers.co.kr/learn/courses/30/lessons/77885    
+ 풀이: https://youtharchive.tistory.com/32
  2. 프로그래머스 - 다리를 지나는 트럭  
- https://school.programmers.co.kr/learn/courses/30/lessons/42583
+ https://school.programmers.co.kr/learn/courses/30/lessons/42583  
+ https://youtharchive.tistory.com/36
  3. 프로그래머스 - 가운데 글자 가져오기  
  https://school.programmers.co.kr/learn/courses/30/lessons/12903
  4. 프로그래머스 - 수박수박수박수박수박수?  
@@ -68,7 +70,8 @@
  22. 프로그래머스 - 콜라 문제  
  https://school.programmers.co.kr/learn/courses/30/lessons/132267
  23. 프로그래머스 - 명예의 전당 (1)  
- https://school.programmers.co.kr/learn/courses/30/lessons/138477
+ https://school.programmers.co.kr/learn/courses/30/lessons/138477  
+ 풀이: https://youtharchive.tistory.com/76
  24. 프로그래머스 - 카드 뭉치  
  https://school.programmers.co.kr/learn/courses/30/lessons/159994
  25. 프로그래머스 - 과일 장수  
@@ -158,55 +161,78 @@
  63. 프로그래머스 - 숫자 변환하기  
  https://school.programmers.co.kr/learn/courses/30/lessons/154538
  64. 프로그래머스 - 가장 큰 수  
- https://school.programmers.co.kr/learn/courses/30/lessons/42746
+ https://school.programmers.co.kr/learn/courses/30/lessons/42746  
+ 풀이: https://youtharchive.tistory.com/39
  65. 프로그래머스 - 소수 찾기  
- https://school.programmers.co.kr/learn/courses/30/lessons/42839
+ https://school.programmers.co.kr/learn/courses/30/lessons/42839  
+ 풀이: https://youtharchive.tistory.com/42
  66. 프로그래머스 - 택배 상자  
- https://school.programmers.co.kr/learn/courses/30/lessons/131704
+ https://school.programmers.co.kr/learn/courses/30/lessons/131704  
+ 풀이: https://youtharchive.tistory.com/48
  67. 프로그래머스 - 큰 수 만들기  
- https://school.programmers.co.kr/learn/courses/30/lessons/42883
+ https://school.programmers.co.kr/learn/courses/30/lessons/42883  
+ 풀이: https://youtharchive.tistory.com/52
  68. 프로그래머스 - 연속된 부분 수열의 합  
- https://school.programmers.co.kr/learn/courses/30/lessons/178870
+ https://school.programmers.co.kr/learn/courses/30/lessons/178870  
+ 풀이: https://youtharchive.tistory.com/59
  69. 프로그래머스 - 두 큐 합 같게 만들기  
- https://school.programmers.co.kr/learn/courses/30/lessons/118667
+ https://school.programmers.co.kr/learn/courses/30/lessons/118667  
+ 풀이: https://youtharchive.tistory.com/63
  70. 프로그래머스 - 전력망을 둘로 나누기  
- https://school.programmers.co.kr/learn/courses/30/lessons/86971
+ https://school.programmers.co.kr/learn/courses/30/lessons/86971  
+ 풀이: https://youtharchive.tistory.com/129
 
 ### 71 - 80
  71. 프로그래머스 - 호텔 대실  
- https://school.programmers.co.kr/learn/courses/30/lessons/155651
+ https://school.programmers.co.kr/learn/courses/30/lessons/155651  
+ 풀이: https://youtharchive.tistory.com/141
  72. 프로그래머스 - 점 찍기  
- https://school.programmers.co.kr/learn/courses/30/lessons/140107
+ https://school.programmers.co.kr/learn/courses/30/lessons/140107  
+ 풀이: https://youtharchive.tistory.com/143
  73. 프로그래머스 - 마법의 엘리베이터  
- https://school.programmers.co.kr/learn/courses/30/lessons/148653
+ https://school.programmers.co.kr/learn/courses/30/lessons/148653  
+ 풀이: https://youtharchive.tistory.com/145
  74. 프로그래머스 - 거리두기 확인하기  
- https://school.programmers.co.kr/learn/courses/30/lessons/81302
+ https://school.programmers.co.kr/learn/courses/30/lessons/81302  
+ 풀이: https://youtharchive.tistory.com/148
  75. 프로그래머스 - 숫자 카드 나누기  
- https://school.programmers.co.kr/learn/courses/30/lessons/135807
+ https://school.programmers.co.kr/learn/courses/30/lessons/135807  
+ 풀이: https://youtharchive.tistory.com/152
  76. 프로그래머스 - 멀쩡한 사각형  
- https://school.programmers.co.kr/learn/courses/30/lessons/62048
+ https://school.programmers.co.kr/learn/courses/30/lessons/62048  
+ 풀이: https://youtharchive.tistory.com/155
  77. 프로그래머스 - 시소 짝꿍  
- https://school.programmers.co.kr/learn/courses/30/lessons/152996
+ https://school.programmers.co.kr/learn/courses/30/lessons/152996  
+ 풀이: https://youtharchive.tistory.com/166
  78. 프로그래머스 - 테이블 해시 함수  
- https://school.programmers.co.kr/learn/courses/30/lessons/147354
+ https://school.programmers.co.kr/learn/courses/30/lessons/147354  
+ 풀이: https://youtharchive.tistory.com/168
  79. 프로그래머스 - 하노이의 탑  
- https://school.programmers.co.kr/learn/courses/30/lessons/12946
+ https://school.programmers.co.kr/learn/courses/30/lessons/12946  
+ 풀이: https://youtharchive.tistory.com/171
  80. 프로그래머스 - 미로 탈출  
- https://school.programmers.co.kr/learn/courses/30/lessons/159993
+ https://school.programmers.co.kr/learn/courses/30/lessons/159993  
+ 풀이: https://youtharchive.tistory.com/172
 
 ### 81 - 90
  81. 프로그래머스 - 혼자 놀기의 달인  
- https://school.programmers.co.kr/learn/courses/30/lessons/131130
+ https://school.programmers.co.kr/learn/courses/30/lessons/131130  
+ 풀이: https://youtharchive.tistory.com/173
  82. 프로그래머스 - 광물 캐기  
- https://school.programmers.co.kr/learn/courses/30/lessons/172927
+ https://school.programmers.co.kr/learn/courses/30/lessons/172927  
+ 풀이: https://youtharchive.tistory.com/175
  83. 프로그래머스 - 리코쳇 로봇  
- https://school.programmers.co.kr/learn/courses/30/lessons/169199
+ https://school.programmers.co.kr/learn/courses/30/lessons/169199  
+ 풀이: https://youtharchive.tistory.com/176
  84. 프로그래머스 - 디펜스 게임  
- https://school.programmers.co.kr/learn/courses/30/lessons/142085
+ https://school.programmers.co.kr/learn/courses/30/lessons/142085  
+ 풀이: https://youtharchive.tistory.com/177
  85. 프로그래머스 - 우박수열 정적분  
- https://school.programmers.co.kr/learn/courses/30/lessons/134239
+ https://school.programmers.co.kr/learn/courses/30/lessons/134239  
+ 풀이: https://youtharchive.tistory.com/178
  86. 프로그래머스 - 두 원 사이의 정수 쌍  
- https://school.programmers.co.kr/learn/courses/30/lessons/181187
+ https://school.programmers.co.kr/learn/courses/30/lessons/181187  
+ 풀이: https://youtharchive.tistory.com/179
  87. 백준 - 유기농 배추  
  https://www.acmicpc.net/problem/1012
  88. 백준 - 직사각형에서 탈출  
@@ -218,7 +244,8 @@
 
 ### 91 - 100
  91. 백준 - DFS와 BFS  
- https://www.acmicpc.net/problem/1260
+ https://www.acmicpc.net/problem/1260  
+ 풀이: https://youtharchive.tistory.com/123
  92. 백준 - 수 찾기  
  https://www.acmicpc.net/problem/1920
  93. 백준 - 조약돌  
@@ -276,7 +303,8 @@
  117. 백준 - 파이프 옮기기 1  
  https://www.acmicpc.net/problem/17070
  118. 백준 - 게리맨더링  
- https://www.acmicpc.net/problem/17471
+ https://www.acmicpc.net/problem/17471  
+ 풀이: https://youtharchive.tistory.com/163
  119. 백준 - 스노우볼  
  https://www.acmicpc.net/problem/17950
  120. 백준 - 교수님 그림이 깨지는데요?  
@@ -342,7 +370,8 @@
  147. SWEA - 미로1  
  https://swexpertacademy.com/main/talk/solvingClub/problemView.do
  148. 프로그래머스 - 무인도 여행  
- https://school.programmers.co.kr/learn/courses/30/lessons/154540
+ https://school.programmers.co.kr/learn/courses/30/lessons/154540  
+ 풀이: https://youtharchive.tistory.com/205
  149. 프로그래머스 - 삼각 달팽이  
  https://school.programmers.co.kr/learn/courses/30/lessons/68645
  150. 프로그래머스 - 배달  
