@@ -1,5 +1,6 @@
 # 문자열의 거울상
 
+
 T = int(input())
 
 for test_case in range(1, T + 1):

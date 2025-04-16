@@ -1,5 +1,6 @@
 # 운동
 
+
 import sys
 
 N, m, M, T, R = map(int, sys.stdin.readline().split())

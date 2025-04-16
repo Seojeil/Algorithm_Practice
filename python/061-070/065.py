@@ -1,5 +1,6 @@
 # 소수 찾기
 
+
 import itertools
 
 

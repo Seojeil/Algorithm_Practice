@@ -1,5 +1,6 @@
 # 교환 분배법칙
 
+
 import sys
 
 N = int(sys.stdin.readline())

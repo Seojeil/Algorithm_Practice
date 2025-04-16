@@ -1,5 +1,6 @@
 # 요세푸스 문제 0
 
+
 import sys
 
 N, K = map(int, sys.stdin.readline().split())

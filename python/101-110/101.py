@@ -1,5 +1,6 @@
 # 괄호
 
+
 T = int(input())
 
 for _ in range(T):

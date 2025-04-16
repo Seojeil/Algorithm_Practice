@@ -1,5 +1,6 @@
 # 등수 구하기
 
+
 N, t, P = map(int, input().split())
 
 if N != 0:

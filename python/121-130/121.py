@@ -1,5 +1,6 @@
 # 추첨상 사수 대작전! (Normal)
 
+
 import sys
 
 m, seed, x1, x2 = map(int, sys.stdin.readline().split())

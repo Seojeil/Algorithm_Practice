@@ -1,5 +1,6 @@
 # 타슈
 
+
 _ = int(input())
 
 difference = 0

@@ -1,5 +1,6 @@
 # 스타트와 링크
 
+
 from itertools import combinations as c
 
 t = int(input())

@@ -1,5 +1,6 @@
 # 숫자 카드 나누기
 
+
 from functools import reduce
 
 

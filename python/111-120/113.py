@@ -1,5 +1,6 @@
 # 구슬 탈출 1
 
+
 from collections import deque
 
 N, M = map(int, input().split())

@@ -1,8 +1,10 @@
 # Ladder1
 
+
 for test_case in range(1, 11):
     case_num = int(input())
     ladder = []
+
     for _ in range(100):
         numbers = list(map(int, input().split()))
         ladder.append(numbers)

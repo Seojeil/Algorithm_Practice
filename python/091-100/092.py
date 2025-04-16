@@ -1,5 +1,6 @@
 # 수 찾기
 
+
 n = int(input())
 
 numbers_1 = set(map(int, input().split()))

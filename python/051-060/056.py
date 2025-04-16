@@ -1,5 +1,6 @@
 # 피로도
 
+
 from itertools import permutations as p
 
 

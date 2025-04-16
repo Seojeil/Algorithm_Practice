@@ -1,5 +1,6 @@
 # 팰린드롬인지 확인하기
 
+
 word = input()
 
 result = 1

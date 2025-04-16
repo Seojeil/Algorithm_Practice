@@ -1,5 +1,6 @@
 # 단지번호붙이기
 
+
 N = int(input())
 
 apartment = []

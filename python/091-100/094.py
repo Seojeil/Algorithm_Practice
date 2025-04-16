@@ -1,10 +1,8 @@
 # 별 찍기
 
+
 N = int(input())
 
-for n in range(2 * N - 1):
-    k = abs(n - N + 1)
-
-    star = k * " " + "*" + "*" * ((N - k - 1) * 2)
-
-    print(star)
+for k in range(1, 2*N):
+    abs_k = abs(N-k)
+    print(abs_k*' '+((N-abs_k)*2-1)*'*')

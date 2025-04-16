@@ -1,5 +1,6 @@
 # 더하기 2
 
+
 s = ""
 
 while True:

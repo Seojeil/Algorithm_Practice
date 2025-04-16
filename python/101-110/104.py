@@ -1,5 +1,6 @@
 # 카드 게임
 
+
 import sys
 
 A = list(map(int, sys.stdin.readline().split()))

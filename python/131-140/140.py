@@ -1,5 +1,6 @@
 # 수도 요금 경쟁
 
+
 T = int(input())
 
 for test_case in range(1, T + 1):

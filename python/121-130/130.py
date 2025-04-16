@@ -1,5 +1,6 @@
 # 중간값 찾기
 
+
 T = int(input())
 
 numbers = list(map(int, input().split()))

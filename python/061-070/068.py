@@ -1,5 +1,6 @@
 # 연속된 부분 수열의 합
 
+
 from collections import deque
 
 

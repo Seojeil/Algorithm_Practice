@@ -1,3 +1,6 @@
+# 기사단원의 무기
+
+
 def solution(number, limit, power):
     answer = 0
 

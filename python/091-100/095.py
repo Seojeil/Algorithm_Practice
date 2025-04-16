@@ -1,5 +1,6 @@
 # 바이러스
 
+
 n = int(input())
 computers = {i: [] for i in range(1, n + 1)}
 

@@ -1,5 +1,6 @@
 # 쌍의 합
 
+
 import sys
 
 t = int(sys.stdin.readline())

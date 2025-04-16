@@ -1,5 +1,6 @@
 # 틱! 택! 토!
 
+
 user = int(input())
 com = 3 - user
 

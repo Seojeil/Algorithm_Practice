@@ -1,5 +1,6 @@
 # 전자레인지
 
+
 import sys
 
 a = int(sys.stdin.readline())

@@ -1,5 +1,6 @@
 # 파이프 옮기기 1
 
+
 from collections import deque
 
 t = int(input())

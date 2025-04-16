@@ -1,5 +1,6 @@
 # 시험 감독
 
+
 N = int(input())
 
 A = list(map(int, input().split()))

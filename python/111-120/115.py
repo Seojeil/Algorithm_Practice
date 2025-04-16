@@ -1,5 +1,6 @@
 # 과일노리
 
+
 import sys
 
 N = int(sys.stdin.readline())

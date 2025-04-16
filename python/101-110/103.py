@@ -1,5 +1,6 @@
 # 유레카 이론
 
+
 import sys
 from itertools import combinations_with_replacement
 

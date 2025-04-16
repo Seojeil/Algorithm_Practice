@@ -1,5 +1,6 @@
 # 게리맨더링
 
+
 from itertools import combinations
 
 N = int(input())

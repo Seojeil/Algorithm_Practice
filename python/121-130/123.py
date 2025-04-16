@@ -1,5 +1,6 @@
 # 방어율 무시 계산하기
 
+
 import sys
 
 _ = int(sys.stdin.readline())
