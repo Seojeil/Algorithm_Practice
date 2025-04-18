@@ -393,3 +393,5 @@
  https://www.acmicpc.net/problem/2941
  156. 백준 - 그룹 단어 체커  
  https://www.acmicpc.net/problem/1316
+ 157. 백준 - 너의 평점은  
+ https://www.acmicpc.net/problem/25206
