@@ -391,3 +391,5 @@
  https://www.acmicpc.net/problem/1927
  155. 백준 - 크로아티아 알파벳  
  https://www.acmicpc.net/problem/2941
+ 156. 백준 - 그룹 단어 체커  
+ https://www.acmicpc.net/problem/1316
