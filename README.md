@@ -374,10 +374,10 @@
  https://school.programmers.co.kr/learn/courses/30/lessons/154540  
  풀이: https://youtharchive.tistory.com/205
  149. 프로그래머스 - 삼각 달팽이  
- https://school.programmers.co.kr/learn/courses/30/lessons/68645
+ https://school.programmers.co.kr/learn/courses/30/lessons/68645  
  풀이: https://youtharchive.tistory.com/56
  150. 프로그래머스 - 배달  
- https://school.programmers.co.kr/learn/courses/30/lessons/12978
+ https://school.programmers.co.kr/learn/courses/30/lessons/12978  
  풀이: https://youtharchive.tistory.com/206
 
 ### 151 - 160
@@ -385,3 +385,5 @@
  https://www.acmicpc.net/problem/1157
  152. 백준 - Sort 마스터 배지훈의 후계자  
  https://www.acmicpc.net/problem/20551
+ 153. 백준 - 카드2  
+ https://www.acmicpc.net/problem/2164
