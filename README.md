@@ -401,3 +401,7 @@
  https://www.acmicpc.net/problem/25192
  160. 백준 - 붙임성 좋은 총총이  
  https://www.acmicpc.net/problem/26069
+
+### 151 - 160
+ 151. 백준 - 통계학 
+ https://www.acmicpc.net/problem/2108
