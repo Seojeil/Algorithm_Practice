@@ -395,3 +395,5 @@
  https://www.acmicpc.net/problem/1316
  157. 백준 - 너의 평점은  
  https://www.acmicpc.net/problem/25206
+ 158. 백준 - 약수  
+ https://www.acmicpc.net/problem/1037
