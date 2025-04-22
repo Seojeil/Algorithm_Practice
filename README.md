@@ -397,11 +397,13 @@
  https://www.acmicpc.net/problem/25206
  158. 백준 - 약수  
  https://www.acmicpc.net/problem/1037
- 159. 백준 - 인사성 밝은 곰곰이
+ 159. 백준 - 인사성 밝은 곰곰이  
  https://www.acmicpc.net/problem/25192
  160. 백준 - 붙임성 좋은 총총이  
  https://www.acmicpc.net/problem/26069
 
 ### 151 - 160
- 151. 백준 - 통계학 
+ 161. 백준 - 통계학 
  https://www.acmicpc.net/problem/2108
+ 162. 백준 - 영단어 암기는 괴로워  
+ https://www.acmicpc.net/problem/20920
