@@ -403,7 +403,9 @@
  https://www.acmicpc.net/problem/26069
 
 ### 151 - 160
- 161. 백준 - 통계학 
+ 161. 백준 - 통계학  
  https://www.acmicpc.net/problem/2108
  162. 백준 - 영단어 암기는 괴로워  
  https://www.acmicpc.net/problem/20920
+ 163. 백준 - 팩토리얼 2  
+ https://www.acmicpc.net/problem/27433
