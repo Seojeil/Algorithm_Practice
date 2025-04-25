@@ -415,3 +415,5 @@
  https://www.acmicpc.net/problem/25501
  166. 백준 - 칸토어 집합  
  https://www.acmicpc.net/problem/4779
+ 167. 백준 - 별 찍기 - 10  
+ https://www.acmicpc.net/problem/2447
